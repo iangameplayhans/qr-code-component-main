@@ -10,14 +10,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/iangameplayhans/qr-code-component-main
 - Live Site URL: https://iangameplayhans.github.io/qr-code-component-main/
 ## My process
 
