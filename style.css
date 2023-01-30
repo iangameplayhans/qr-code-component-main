@@ -1,0 +1,33 @@
+html{
+    font-family:"Outfit",'Gill Sans';
+}
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+section{
+    margin: 25% auto  ;
+    padding-bottom: 40px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15pX ;
+    width: 375px ;
+    text-align: center;
+}
+section img{
+    padding: 20px;
+    width: 90%;
+    border-radius: 35px ; 
+}
+#title, #text{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+#title{
+    color:  hsl(218, 44%, 22%);
+    font-size: 22px;
+}
+#text{
+    padding-top: 20px;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
